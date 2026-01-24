@@ -38,8 +38,8 @@ Para jugar a **Zombie Survivor**, sigue estos pasos desde tu dispositivo Android
 
 1. Ve a la sección oficial de [Releases](https://github.com/OctavioproYT452/Zombie-Survivor/releases/).
 2. Elige uno de los dos formatos disponibles:
-   * **ZIP:** Para una instalación rápida y directa (84 MB).
-   * **7z:** Compresión ultra para ahorrar datos móviles (67 MB).
+   * **ZIP:** Para una instalación rápida y directa.
+   * **7z:** Compresión ultra para ahorrar datos móviles.
 3. Extrae el archivo (si usas **.7z**, te recomendamos la app **ZArchiver**).
 4. Instala la APK firmada y asegúrate de permitir "Orígenes desconocidos" en tu dispositivo.
 
